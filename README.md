@@ -1,2 +1,2 @@
 # Yadro_test_task
-Test task from Yadro.
+Income counter for the day of the computer club.

@@ -9,4 +9,5 @@ There are two types of test files:
 
   where (N) - is test number.
 
-After clonning the repository go to /task/src. To build and run write "g++ main.cpp && ./a.out test(N).txt" in terminal.
+After clonning the repository go to /task/src. 
+To build and run write "g++ main.cpp && ./a.out test(N).txt" in terminal.

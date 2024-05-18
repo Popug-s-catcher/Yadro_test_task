@@ -1,0 +1,23 @@
+3
+10:00 20:55
+13
+08:48 1 yermola
+09:41 1 yermola
+10:00 1 akim
+10:10 1 yermola
+10:20 3 yermola
+10:21 3 akim
+10:25 2 yermola 1
+10:25 2 akim 1
+10:26 2 akim 2
+11:25 2 efim 3
+11:30 1 efim
+11:30 1 feopent
+11:30 1 chermen
+11:42 2 chermen 3
+11:42 2 efim 2
+11:43 3 efim
+11:43 3 feopent
+11:59 1 feodor
+11:59 3 feodor
+21:00 1 petya
